@@ -2,6 +2,6 @@
 
 Adds Spotify controls and a seekbar directly to the Windows taskbar.
 
-## Preview
+## Preview 
 
 ![Preview](preview.png)
