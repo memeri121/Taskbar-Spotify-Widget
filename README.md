@@ -1,2 +1,7 @@
-# Taskbar-Spotify-Widget
-Windhawk mod that adds Spotify controls and a seekbar directly to the Windows taskbar.
+# Spotify Taskbar Widget (Windhawk)
+
+Adds Spotify controls and a seekbar directly to the Windows taskbar.
+
+## Preview
+
+![Preview](preview.png)
